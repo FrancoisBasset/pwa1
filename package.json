@@ -1,5 +1,6 @@
 {
   "name": "pwa1",
+  "title": "Pwa 1",
   "version": "1.0.0",
   "description": "pwa1",
   "main": "index.js",
